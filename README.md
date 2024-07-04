@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm KHALID MARZAQ</h1>
-<div align="center"> <img src="https://www.leptidigital.fr/wp-content/uploads/2023/05/reporting-commercial-zoho.jpg"> </div>
 <h3 align="center">Passionate about Business Intelligence</h3>
+<div align="center"> <img src="https://www.leptidigital.fr/wp-content/uploads/2023/05/reporting-commercial-zoho.jpg"> </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>

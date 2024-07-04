@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marzaq10.marzaq10" />
 
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=5000&lines=Hey Everyone 👋, I'm KHALID MARZAQ;" />
-</h1>
+</div>
 
 <h3 align="center">A Passionate Business Intelligence from Morocco</h3>
 <div align="center"> <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/eaf4f2e5f5a208801e882b2b376eb693-1706532208660/4.%20Trade%20Dashboard.png" width="600" height="300" > </div>

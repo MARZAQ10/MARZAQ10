@@ -18,6 +18,8 @@
 
 👨‍💻 All of my projects are available at     [https://github.com/MARZAQ10](https://github.com/MARZAQ10)
 
+<hr/>
+
  <h2 align="center">Connect with me</h2>
 <div align="center"> 
   <a href="mailto:khalid.marzaq.2000@gmail.com">
@@ -43,7 +45,6 @@
 </div>
 
 <hr/>
-
 
 <h2 align="center"> Stats </h2>
 <table style="border: none;">

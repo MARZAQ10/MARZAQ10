@@ -48,7 +48,11 @@
 <h2 align="center"> Stats </h2>
 <br>
 <div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marzaq10&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-<img  src="https://github-readme-stats.vercel.app/api?username=marzaq10&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=10" alt="readme stats" />
+<a href="https://git.io/streak-stats" style="display: inline-block; width: 48%;">
+    <img src="https://streak-stats.demolab.com?user=marzaq10&theme=chartreuse-dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="width: 100%; border-radius: 10px;" />
+</a>
+<a href="https://github-readme-stats.vercel.app" style="display: inline-block; width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=marzaq10&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=10" alt="readme stats" style="width: 100%; border-radius: 10px;" />
+</a>
 
 </div>

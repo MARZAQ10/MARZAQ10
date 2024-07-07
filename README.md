@@ -6,15 +6,15 @@
 </h1>
 
 
-<h3 align="center">A Passionate Business Intelligence from Morocco</h3>
+<h3 align="center">A Passionate Data Analytics from Morocco</h3>
 <div align="center"> <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/eaf4f2e5f5a208801e882b2b376eb693-1706532208660/4.%20Trade%20Dashboard.png" width="600" height="300" > </div>
 <br/>
 
 <div align="center">
  
- 🌱 I’m currently learning **Business Intelligence**
+ 🌱 I’m currently learning **Data Analytics**
 
-💬 Ask me about **Business Intelligence**
+💬 Ask me about **Data Analytics**
 
 👨‍💻 All of my projects are available at     [https://github.com/MARZAQ10](https://github.com/MARZAQ10)
 

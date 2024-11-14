@@ -50,7 +50,9 @@
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MARZAQ10&theme=chartreuse-dark" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats">
+            <img src="https://streak-stats.demolab.com?user=MARZAQ10&theme=chartreuse-dark" alt="GitHub Streak" />
+        </a>
     </td>
     <td style="border: none;">
       <a href="https://github-readme-stats.vercel.app">

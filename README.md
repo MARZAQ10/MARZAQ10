@@ -7,7 +7,7 @@
 
 
 <h3 align="center">A Passionate Data Analytics from Morocco</h3>
-<div align="center"> <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/eaf4f2e5f5a208801e882b2b376eb693-1706532208660/4.%20Trade%20Dashboard.png" width="600" height="300" > </div>
+<div align="center"> </div>
 <br/>
 
 <div align="center">

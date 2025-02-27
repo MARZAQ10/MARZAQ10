@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-![Image](https://github.com/MARZAQ10/MARZAQ10/blob/main/Cover%20Image)
+![Image](https://github.com/MARZAQ10/MARZAQ10/blob/main/Cover%20Image.png)
 <hr/>
 
  <h2 align="center">Connect with me</h2>

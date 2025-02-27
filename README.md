@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
- ![Cover Image](https://github.com/user-attachments/assets/fc301447-7686-47b5-b323-7af8e02ad0ac)
+ <img align="right" src="https://github.com/MARZAQ10/MARZAQ10/blob/main/Cover%20Image.png" />
 <hr/>
  <h2 align="center">Connect with me</h2>
 <div align="center"> 

@@ -4,6 +4,7 @@
  <img align="right" src="https://github.com/MARZAQ10/MARZAQ10/blob/main/Cover%20Image.png" />
 </div>
 <br/>
+<hr/>
 <div align="center">
 <hr/>
  <h2 align="center">Connect with me</h2>

@@ -1,8 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marzaq10.marzaq10" />
 
 <br/>
-<hr/>
-<br/>
 
 <div align="center"> 
  <img align="right" src="https://github.com/MARZAQ10/MARZAQ10/blob/main/Cover%20Image.png" />

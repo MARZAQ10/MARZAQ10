@@ -1,23 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marzaq10.marzaq10" />
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=5000&pause=2000&lines=Hello+Everyone!+👋+I'm+KHALID+MARZAQ!;" />
-</h1>
-
-
 <h3 align="center">A Passionate Data Analytics from Morocco</h3>
 <div align="center"> </div>
 <br/>
 
 <div align="center">
- 
- 🌱 I’m currently learning **Data Analytics**
-
-💬 Ask me about **Data Analytics**
-
-👨‍💻 All of my projects are available at     [https://github.com/MARZAQ10](https://github.com/MARZAQ10)
-
+![Alt text](https://github.com/MARZAQ10/MARZAQ10/blob/main/Cover%20Image.png)
 <hr/>
 
  <h2 align="center">Connect with me</h2>

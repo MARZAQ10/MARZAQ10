@@ -1,12 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marzaq10.marzaq10" />
 
+<br/>
+<hr/>
+<br/>
+
 <div align="center"> 
  <img align="right" src="https://github.com/MARZAQ10/MARZAQ10/blob/main/Cover%20Image.png" />
 </div>
 <br/>
 <hr/>
+<br/>
 <div align="center">
-<hr/>
  <h2 align="center">Connect with me</h2>
 <div align="center"> 
   <a href="mailto:khalid.marzaq.2000@gmail.com">

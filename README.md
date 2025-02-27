@@ -4,10 +4,11 @@
 
 <div align="center"> 
  <img align="right" src="https://github.com/MARZAQ10/MARZAQ10/blob/main/Cover%20Image.png" />
-</div>
-<br/>
+ <br/>
 <hr/>
 <br/>
+</div>
+
 <div align="center">
  <h2 align="center">Connect with me</h2>
 <div align="center"> 

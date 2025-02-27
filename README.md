@@ -1,12 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marzaq10.marzaq10" />
 
 
-<h3 align="center">A Passionate Data Analytics from Morocco</h3>
 <div align="center"> </div>
 <br/>
 
 <div align="center">
-![Alt text](https://github.com/MARZAQ10/MARZAQ10/blob/main/Cover%20Image.png)
+![Image](https://github.com/MARZAQ10/MARZAQ10/blob/main/Cover%20Image)
 <hr/>
 
  <h2 align="center">Connect with me</h2>
